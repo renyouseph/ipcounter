@@ -3,7 +3,7 @@ Python script to display the most IP hits to a domain along with IP location
 
 ## Features:
 * Verifying the access.log and count each IP hits.
-* It displays largest hits from IP's as per our limit set and It's location.
+* It displays largest hits from IP's as per our limit set and IP location.
 
 ## Usage:
 

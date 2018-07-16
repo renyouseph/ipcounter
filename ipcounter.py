@@ -1,6 +1,5 @@
 #### Requirements ####
 # apt-get install python3
-# apt-get install python3-pip
 ####
 ### Usage ####
 # python3 filename pathtoaccesslog limit
